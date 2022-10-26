@@ -43,4 +43,6 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#495](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/495) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+2. 💪 Opened PR [#495](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/495) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 <!--END_SECTION:activity-->
