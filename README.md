@@ -8,7 +8,9 @@
 &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />](https://www.strava.com/athletes/100213405)
 
-### Languages:
+---
+
+### Languages I've worked with:
 
 <img align="left" alt="Java" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -19,7 +21,7 @@
 <br />
 <br />
 
-### Tools:
+### Tools I've used:
 <img align="left" alt="VSCode" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="IntelliJ" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyCharm" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
@@ -35,3 +37,10 @@
 
 <br />
 <br />
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
