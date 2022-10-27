@@ -49,6 +49,6 @@ I would like to get better at web app development and working with IoT systems, 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#495](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/495) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-2. 💪 Opened PR [#495](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/495) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+1. ❌ Reopened PR [#495](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/495) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+2. ❌ Closed PR [#495](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/495) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 <!--END_SECTION:activity-->
