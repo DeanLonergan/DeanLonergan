@@ -1,6 +1,6 @@
 ### Hi, I'm Dean 👋 
 ### I'm an Applied Computing student @ South East Technological University 🇮🇪
-I enjoying working on all sorts of projects, but I am particularly passionate about embedded system design. 
+I enjoy working on all sorts of projects, but I am particularly passionate about embedded system design. 
 <br /> 
 I would like to get better at web app development and working with IoT systems, particularly system networking.
 
