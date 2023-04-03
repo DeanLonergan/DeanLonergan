@@ -46,12 +46,3 @@ I would like to get better at web app development and working with IoT systems, 
 
 <br />
 <br />
-
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1482](https://github.com/devicons/devicon/issues/1482) in [devicons/devicon](https://github.com/devicons/devicon)
-2. ❌ Reopened PR [#495](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/495) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-<!--END_SECTION:activity-->
